@@ -8,18 +8,18 @@
 <a href="ceo@bghddevelopment.com">
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
-<a href="https://partreon.com/BGHDDevelopment">
-  <img align="left" alt="Patreon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/patreon.svg" />
-</a>
 <a href="https://youtube.com/BGHDDevelopment">
   <img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/youtube.svg" />
 </a>
 <br />
 <br />
 
-Hi, I'm Stephan, a programmer, student, entrepreneur, youtuber, and CEO of BGHDDevelopment! I am currently living in Los Angeles and have been working on Minecraft & GTA addons for years. I have also created some standalone games and software. Beside's programming, I like noodles and flying drones.
+Hi, I'm Stephan, a programmer, student, entrepreneur, youtuber, and CEO of BGHDDevelopment LLC! I am currently living in Los Angeles and have been working on Minecraft & GTA addons for years. I have also created some standalone games and software. Beside's programming, I like noodles and flying drones.
 
 
-![BGHDDevelopments's github stats](https://github-readme-stats.vercel.app/api?username=bghddevelopment&show_icons=true&hide_border=true)
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bghddevelopment&show_icons=true&hide_border=true&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InventivetalentDev&theme=dark&layout=compact&langs_count=6"/>
+</div>
 
 ⭐️ From [BGHDDevelopment](https://github.com/bghddevelopment)
